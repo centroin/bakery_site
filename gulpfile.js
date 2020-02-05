@@ -5,7 +5,7 @@ gulp.task('default', function(){
     console.log("hello");
 });
 
-gulp.task('woww', function(){
+gulp.task('html', function(){
     console.log("jii woww");
 });
 
